@@ -1,4 +1,2 @@
 # PacmanVR
-Proyecto para la asignatura Realidad y Accesibilidad Aumentadas de la Universidad de Oviedo. En este proyecto se desarrolla el videojuego Pacman en Realidad Virtual para dispositivos Android.
-
-Autor: Marcos Canal López
+Project for the subject Augmented Reality and Accessibility at the University of Oviedo. In this project the Pacman video game is developed in Virtual Reality for Android devices. 
